@@ -1,7 +1,8 @@
-# Plastic-Detection-in-River
+# Plastic-Detection-in-River by Abhinav Krishna S B 
 
 Plastic pollution in marine environnement is a global threat. It threatens marine species health, human health, food security, costal tourism. More than 350 million tons of plastic are produced every year and it is estimated that more than 15 million tons end up in the world Ocean. The plastic then degrades over time into micro-plastic and both macro and microplastic have serious environmental impacts. Rivers are the very first source of plastic in Oceans. It is estimated that more than 80% of river plastic comes from only 1000 rivers. Organizations like the The Ocean Cleanup are investing resources to address the ocean plastic pollution at the root cause by cleaning rivers.
 
+contact abhinavkrishna1234@icloud.com for queries .
 Inorder to tackle the above problem, this is a streamlit app that detects whether there is plastic in river or not using Deep Learning techniques like Object Detection and state-of-the-art Object Detection Models like "You only look once (YOLO)".
 
 This app uses the YOLOv8m Pre-trained Object Detection model to train on the custom dataset. This dataset contains photos of rivers on which there may be waste. The waste items are annotated through bounding boxes, and are assigned to one of the 4 following categories: Plastic Bags, Plastic Bottles, Other Plastic Waste and No Plastic waste. Note that some photos may not contain any waste.
